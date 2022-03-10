@@ -46,7 +46,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
 | Info Gempa & Cuaca API | R.M. Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
-| Pencarian Nomer HP | Rasi Tech | [Link](http://osinttools.my.id/#tools) | `Aktif` | REST API Pencariam Nomer HP Melalui Internet / Phone Number OSINT  | `Tidak` |
+| Pencarian Nomer HP | Rasi Tech | [Link](https://osint-tools.herokuapp.com/#tools) | `Aktif` | REST API Pencariam Nomer HP Melalui Internet / Phone Number OSINT  | `Tidak` |
 
 
 ### Berita
